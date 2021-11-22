@@ -1,3 +1,5 @@
+// ©Noam Chen
+
 #ifndef HW1_WET_AVL_TREE_H
 #define HW1_WET_AVL_TREE_H
 
